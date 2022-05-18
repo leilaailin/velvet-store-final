@@ -1,0 +1,11 @@
+.productos-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-row-gap: 20px;
+    justify-items: center;
+    align-items: center;
+}
+.productos a {
+    color: rgb(59, 56, 56);
+    text-decoration: none;
+}

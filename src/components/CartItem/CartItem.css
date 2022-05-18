@@ -1,0 +1,20 @@
+.carrito-producto{
+    display: flex;
+    flex-direction: row;
+    margin: 5px auto;
+    align-items: center;
+    justify-content: center;
+}
+.carrito-foto{
+    width: 5%;
+}
+.carrito-boton{
+    height: auto;
+}
+.carrito-cantidad{
+    width: 10%;
+}
+.carrito-titulo{
+    width: 30%;
+    text-align: start;
+}

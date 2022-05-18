@@ -1,0 +1,13 @@
+.datos-contacto{
+    margin: 20px;
+}
+form div{
+    margin: 15px;
+}
+form div label {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.finalizar-compra{
+    margin-bottom: 20px;
+}

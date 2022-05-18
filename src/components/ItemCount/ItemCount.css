@@ -1,0 +1,13 @@
+.item-count-botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+.item-count-botones button{
+    height: 30px;
+    margin: 0px 10px;
+}
+.item-count-botones p{
+    margin: 2px 10px;
+}

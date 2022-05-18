@@ -1,0 +1,10 @@
+.items-container {
+    display: flex;
+    margin: 40px auto;
+}
+.categories{
+    width: 20%;
+}
+.productos{
+    width: 80%;
+}

@@ -1,0 +1,23 @@
+.categories {
+    width: 100%;
+    margin: 10px;
+}
+.categories ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    min-width: 190px;
+    width: 100%;
+}
+.categories li {
+    text-align: left;
+}
+.categories li:hover{
+    font-weight: bolder;
+    transform: scale(1.1);
+}
+.categories a {
+    color: #a3c1c1;
+    text-decoration: none;
+    margin: 0px;
+}
